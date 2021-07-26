@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub Logo](analysis.png)
-
 I would be happy to talk about problems with your data and find a solution together.
 
 May be my previous experience with data solutions could help or we can find a state-of-the-art method and customize a solution?
