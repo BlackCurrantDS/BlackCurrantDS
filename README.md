@@ -23,9 +23,7 @@ I can help build you an end to end solution from scratch or just be a missing pi
 
 Some of my recently accquired skills are Machine Learning, advanced data mining, PowerBI, Tableau in addition to bread and butter skills SQL, Data Analysis, testing, documentation etc.
 
-StackOverflow DataScience-
-
-[![blackcurrant datascience.stackexchange](https://datascience.stackexchange-badge.vercel.app/?userID=56714)](https://datascience.stackexchange.com/users/56714/blackcurrant)
+StackOverflow DataScience- [![blackcurrant datascience.stackexchange](https://datascience.stackexchange-badge.vercel.app/?userID=56714)](https://datascience.stackexchange.com/users/56714/blackcurrant)
 
 
 Feel free to get in touch on LinkedIn- 
