@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Logo](assets/img/analysis.png)
+![GitHub Logo](analysis.png)
 
 I would be happy to talk about problems with your data and find a solution together.
 
