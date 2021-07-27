@@ -25,7 +25,7 @@ StackOverflow DataScience- [![blackcurrant datascience.stackexchange](https://da
 
 🔭 I’m currently building a chargeback/fraudulent transaction prediction model.
 
-⚙️ I use SQL, GoogleSheets, Google Cloud, Python everyday.
+⚙️ I use SQL, GoogleSheets, Google Cloud, Python, Airflow everyday.
 
 🌱 I’m currently learning Deep Learning and Machine Learning.
 
