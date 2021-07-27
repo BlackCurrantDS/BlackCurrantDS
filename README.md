@@ -33,7 +33,7 @@ StackOverflow DataScience- [![blackcurrant datascience.stackexchange](https://da
 
 📫 How to reach me: https://www.linkedin.com/in/priyam-b/
 
-⚡ Fun fact: I am a huge fan of Lord of the Rings!
+⚡ Fun fact: I am a huge fan of Lord of the Rings and I love to paint!
 
 
 Looking forward to hearing from you!!
