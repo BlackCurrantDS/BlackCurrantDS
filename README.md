@@ -1,4 +1,4 @@
-### Hi there 👋 I am Siya.
+### Hi there 👋 I am Priyam.
 
 <!--
 **BlackCurrantDS/BlackCurrantDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,13 +23,13 @@ May be my previous experience with data solutions could help or we can find a st
 StackOverflow DataScience- [![blackcurrant datascience.stackexchange](https://datascience.stackexchange-badge.vercel.app/?userID=56714)](https://datascience.stackexchange.com/users/56714/blackcurrant)
 
 
-🔭 I’m currently building a chargeback/fraudulent transaction prediction model.
+🔭 I’m currently working on an e-commerce data migration and modernization project, moving from a legacy platform to Databricks.
 
-⚙️ I use SQL, GoogleSheets, Google Cloud, Python, Airflow everyday.
+⚙️ I use Databricks, AWS, Github, SQL, Python, CI/CD pipelines everyday.
 
-🌱 I’m currently learning Deep Learning and Machine Learning.
+🌱 I’m currently learning data architecture best practics and trade-offs.
 
-💬 Ping me about Business intelligence, Data Analysis, ETL, data modelling, Machine Learning, Data Mining
+💬 Ping me about data architectures, data modeling, business intelligence, data analysis and machine learning.
 
 📫 How to reach me: https://www.linkedin.com/in/priyam-b/
 
