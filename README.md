@@ -22,6 +22,15 @@ I love transforming messy, siloed data into powerful, insight-driven assets that
 
 ---
 
+### 📚 Publications
+- 🧾 **“Enforcing Right to Be Forgotten in Cloud-Based Data Lakes”** — A publication exploring data privacy and architectural implications of GDPR compliance.  
+- 🤖 **“OPECUR: An Enhanced Clustering-Based Model for Discovering Unexpected Rules”** — Research on leveraging ML for operational decision-making and finding unexpected rules.
+
+### 🤝 Volunteering
+- **Language Teacher** at Malestar– Helping senior citizens learn new language.  
+- **Community Organizer** at [https://www.linkedin.com/groups/17616032/]) – Hosting sessions on data architecture and cloud modernization.
+
+
 ### 🌱 Always Learning
 Currently exploring:
 - Advanced **data architecture trade-offs** (batch vs. streaming, lakehouse vs. warehouse)
@@ -30,10 +39,6 @@ Currently exploring:
 
 ---
 
-
-### 🤝 Volunteering
-- **Language Teacher** at Malestar– Helping senior citizens learn new language.  
-- **Community Organizer** at [https://www.linkedin.com/groups/17616032/]) – Hosting sessions on data architecture and cloud modernization.
 
 ### 💬 Let’s Connect
 Ping me about:
